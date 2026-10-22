@@ -1,0 +1,17 @@
+﻿build/
+build_*/
+*.exe
+*.pdb
+*.obj
+*.lib
+*.log
+*.rar
+.vs/
+
+# Arquivos originais do jogo
+EBOOT.elf
+EBOOT.BIN
+PS3_GAME/
+
+# Codigo recompilado derivado do jogo
+recompiled/
